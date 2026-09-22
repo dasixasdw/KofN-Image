@@ -1,7 +1,3 @@
-下面是按「顶部语言切换 + 中文完整在前 + 英文完整在后」重构的 `README.md`。
-
----
-
 # Tessera
 
 **基于 Shamir 与 CRT 的阈值图像秘密共享 · Threshold Image Secret Sharing via Shamir and CRT**
